@@ -12,4 +12,31 @@ html{
 
   #links{
     font-size: 18px;
+    text-decoration: underline;
   }
+
+h2{
+  font-size: 32px;
+  font-weight-bold;
+}
+
+#subprocess{
+  font-size: 23px
+}
+
+p{
+  font-size: 14px
+  font-weight: normal;
+}
+
+#end{
+  font-size: 23px;
+}
+
+#bottom{
+  color: white;
+  font-size: 11px;
+  background-color: dimgray;
+  text-decoration: underline;
+  text-align: left;
+}
